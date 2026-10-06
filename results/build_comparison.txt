@@ -1,0 +1,32 @@
+A = 1000G Phase 3, low coverage (4-6x), GRCh37
+B = 1000G 30x NYGC, shapeit2-duohmm phased, GRCh38
+
+quantity                                         A                 B   change
+----------------------------------------------------------------------------------
+variants scanned                            25,771            21,769   -4,002
+biallelic SNVs                              24,706            18,819   -5,887
+retained after HWE filter                   24,701            18,819   -5,882
+SpCas9 PAM-altering (window)                 9,247             7,044   -2,203
+any-nuclease PAM-altering                   23,990            18,297   -5,693
+in-gene SpCas9, het>=20%                       257               258   +1
+in-gene SpCas9, het>=30%                       170               170   same
+tier-1 sites                                    85                86   +1
+panel candidate sites                          468               471   +3
+HTT PAM-altering sites                         197               204   +7
+HTT phase-agnostic, EUR                     78.13%            79.13%   +0.99%
+HTT phase-agnostic, all                     80.95%            81.83%   +0.88%
+ATXN1 PAM-altering sites                       613               617   +4
+ATXN1 phase-agnostic, EUR                   99.80%            99.80%   same
+ATXN1 phase-agnostic, all                   99.56%            99.48%   -0.08%
+rs363099 het, EUR                           39.36%            39.36%   same
+rs363099 single-site elig                   19.68%            19.68%   same
+panel guide 1                             rs648411    6:16744269:G:C   DIFFERS
+panel coverage, 1 guide                     49.72%            49.72%   same
+panel coverage, 6 guides                    98.00%            97.64%   -0.36%
+founder floor (26 pops)                     96.46%            96.46%   same
+rs2075974 GRCh38 pos                    16,327,099        16,327,099   same
+rs2075974 PAM created                            1                 1   same
+rs2075974 protospacer           GCAACAGGCCACTCATCGTGGCAACAGGCCACTCATCGTG   same
+rs2075974 het, all                          43.89%            43.89%   same
+rs2075974 eligibility, EUR                  78.53%            78.53%   same
+----------------------------------------------------------------------------------
