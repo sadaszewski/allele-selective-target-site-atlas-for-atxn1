@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="174.00mm" height="87.92mm" viewBox="0 0 760 384" role="img" font-family="Helvetica, Arial, sans-serif">
+<title>Six guides cover at least 96.8% of individuals in every ancestry group</title>
+<desc>Cumulative share of individuals heterozygous at one or more panel sites, greedy cover over 468 candidate sites, by superpopulation.</desc>
+<rect x="0" y="0" width="760" height="384" fill="#FFFFFF"/>
+<text x="24.0" y="28.0" font-size="15" fill="#1A1A1A" text-anchor="start" font-weight="bold">Six guides cover at least 96.8% of individuals in every ancestry group</text>
+<text x="24.0" y="48.0" font-size="11.5" fill="#595959" text-anchor="start" font-weight="normal">Cumulative share heterozygous at one or more panel sites, greedy cover over 468 candidates</text>
+<line x1="92.0" y1="328.0" x2="616.0" y2="328.0" stroke="#DCDCDC" stroke-width="0.8"/>
+<text x="82.0" y="332.0" font-size="11.5" fill="#595959" text-anchor="end" font-weight="normal">40</text>
+<line x1="92.0" y1="290.0" x2="616.0" y2="290.0" stroke="#DCDCDC" stroke-width="0.8"/>
+<text x="82.0" y="294.0" font-size="11.5" fill="#595959" text-anchor="end" font-weight="normal">50</text>
+<line x1="92.0" y1="252.0" x2="616.0" y2="252.0" stroke="#DCDCDC" stroke-width="0.8"/>
+<text x="82.0" y="256.0" font-size="11.5" fill="#595959" text-anchor="end" font-weight="normal">60</text>
+<line x1="92.0" y1="214.0" x2="616.0" y2="214.0" stroke="#DCDCDC" stroke-width="0.8"/>
+<text x="82.0" y="218.0" font-size="11.5" fill="#595959" text-anchor="end" font-weight="normal">70</text>
+<line x1="92.0" y1="176.0" x2="616.0" y2="176.0" stroke="#DCDCDC" stroke-width="0.8"/>
+<text x="82.0" y="180.0" font-size="11.5" fill="#595959" text-anchor="end" font-weight="normal">80</text>
+<line x1="92.0" y1="138.0" x2="616.0" y2="138.0" stroke="#DCDCDC" stroke-width="0.8"/>
+<text x="82.0" y="142.0" font-size="11.5" fill="#595959" text-anchor="end" font-weight="normal">90</text>
+<line x1="92.0" y1="100.0" x2="616.0" y2="100.0" stroke="#DCDCDC" stroke-width="0.8"/>
+<text x="82.0" y="104.0" font-size="11.5" fill="#595959" text-anchor="end" font-weight="normal">100%</text>
+<line x1="92.0" y1="100.0" x2="92.0" y2="328.0" stroke="#8C8C8C" stroke-width="1.1"/>
+<text x="92.0" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">1</text>
+<text x="139.6" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">2</text>
+<text x="187.3" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">3</text>
+<text x="234.9" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">4</text>
+<text x="282.5" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">5</text>
+<text x="330.2" y="348.0" font-size="11.5" fill="#1A1A1A" text-anchor="middle" font-weight="bold">6</text>
+<text x="377.8" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">7</text>
+<text x="425.5" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">8</text>
+<text x="473.1" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">9</text>
+<text x="520.7" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">10</text>
+<text x="568.4" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">11</text>
+<text x="616.0" y="348.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">12</text>
+<line x1="92.0" y1="328.0" x2="616.0" y2="328.0" stroke="#8C8C8C" stroke-width="1.1"/>
+<text x="354.0" y="372.0" font-size="11.5" fill="#595959" text-anchor="middle" font-weight="normal">number of guides in the panel</text>
+<line x1="330.2" y1="100.0" x2="330.2" y2="328.0" stroke="#6E6E6E" stroke-width="1.1" stroke-dasharray="4 3"/>
+<text x="330.2" y="92.0" font-size="11.5" fill="#1A1A1A" text-anchor="middle" font-weight="bold">6 guides</text>
+<path d="M92.0 298.2 L139.6 209.5 L187.3 161.3 L234.9 130.7 L282.5 113.1 L330.2 105.5 L377.8 101.1 L425.5 101.1 L473.1 101.1 L520.7 101.1 L568.4 101.1 L616.0 101.1" fill="none" stroke="#B0B0B0" stroke-width="1.4"/>
+<path d="M92.0 281.7 L139.6 191.2 L187.3 144.5 L234.9 118.8 L282.5 112.1 L330.2 104.5 L377.8 102.3 L425.5 100.8 L473.1 100.8 L520.7 100.8 L568.4 100.8 L616.0 100.8" fill="none" stroke="#B0B0B0" stroke-width="1.4"/>
+<path d="M92.0 279.0 L139.6 186.1 L187.3 142.3 L234.9 121.9 L282.5 109.8 L330.2 105.3 L377.8 103.0 L425.5 102.3 L473.1 101.5 L520.7 100.8 L568.4 100.8 L616.0 100.0" fill="none" stroke="#B0B0B0" stroke-width="1.4"/>
+<path d="M92.0 294.3 L139.6 194.8 L187.3 148.2 L234.9 127.2 L282.5 113.2 L330.2 108.5 L377.8 105.4 L425.5 104.7 L473.1 102.3 L520.7 102.3 L568.4 101.6 L616.0 101.6" fill="none" stroke="#B0B0B0" stroke-width="1.4"/>
+<path d="M92.0 301.2 L139.6 215.0 L187.3 157.5 L234.9 136.8 L282.5 121.8 L330.2 112.1 L377.8 106.9 L425.5 102.3 L473.1 101.1 L520.7 100.6 L568.4 100.6 L616.0 100.6" fill="none" stroke="#1F6FD0" stroke-width="2.4"/>
+<circle cx="92.0" cy="301.2" r="3" fill="#1F6FD0"/>
+<circle cx="139.6" cy="215.0" r="3" fill="#1F6FD0"/>
+<circle cx="187.3" cy="157.5" r="3" fill="#1F6FD0"/>
+<circle cx="234.9" cy="136.8" r="3" fill="#1F6FD0"/>
+<circle cx="282.5" cy="121.8" r="3" fill="#1F6FD0"/>
+<circle cx="330.2" cy="112.1" r="3" fill="#1F6FD0"/>
+<circle cx="377.8" cy="106.9" r="3" fill="#1F6FD0"/>
+<circle cx="425.5" cy="102.3" r="3" fill="#1F6FD0"/>
+<circle cx="473.1" cy="101.1" r="3" fill="#1F6FD0"/>
+<circle cx="520.7" cy="100.6" r="3" fill="#1F6FD0"/>
+<circle cx="568.4" cy="100.6" r="3" fill="#1F6FD0"/>
+<circle cx="616.0" cy="100.6" r="3" fill="#1F6FD0"/>
+<text x="626.0" y="104.6" font-size="11.5" fill="#1A1A1A" text-anchor="start" font-weight="bold">AFR, the lowest</text>
+<text x="626.0" y="122.6" font-size="11.5" fill="#595959" text-anchor="start" font-weight="normal">AMR, EAS, EUR, SAS</text>
+<circle cx="330.2" cy="112.1" r="5.5" fill="none" stroke="#1F6FD0" stroke-width="2"/>
+<text x="344.2" y="140.1" font-size="11.5" fill="#1A1A1A" text-anchor="start" font-weight="bold">96.8%</text>
+</svg>
